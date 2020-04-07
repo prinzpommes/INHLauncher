@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.7.0",
-  "productName": "Helios Launcher",
+  "name": "inhlauncher",
+  "version": "0.1",
+  "productName": "INH Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) & modified by Wuff",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prinzpommes/HeliosLauncher.git"
+    "url": "git+https://github.com/prinzpommes/INHLauncher.git"
   }
 }
