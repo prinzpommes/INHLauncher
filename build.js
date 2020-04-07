@@ -21,7 +21,7 @@ builder.build({
         appId: 'inhlauncher',
         productName: 'INH Launcher',
         artifactName: '${productName}.${ext}',
-        copyright: 'Copyright © 2018-2020 Daniel Scalzi',
+        copyright: 'Copyright © 2018-2020 Daniel Scalzi & edited by Codeg and Wuff',
         directories: {
             buildResources: 'build',
             output: 'dist'
